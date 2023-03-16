@@ -1,7 +1,5 @@
-# Interact_Self_supervised_denoising (TCSVT 2023)
 
-
-## Towards Interactive Self-Supervised Denoising
+## Towards Interactive Self-Supervised Denoising (TCSVT 2023)
 
 Mingde Yao, Dongliang He, Xin Li, Fu Li, and Zhiwei Xiong(*)
 
