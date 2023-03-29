@@ -1,7 +1,7 @@
 
-## Towards Interactive Self-Supervised Denoising (TCSVT 2023)
+## Towards Interactive Self-Supervised Denoising (TCSVT 2023) [Paper](https://ieeexplore.ieee.org/abstract/document/10059001)
 
-Mingde Yao, Dongliang He, Xin Li, Fu Li, and Zhiwei Xiong(*)
+[Mingde Yao](https://scholar.google.com/citations?user=fsE3MzwAAAAJ&hl=en), [Dongliang He](https://scholar.google.com/citations?user=ui6DYGoAAAAJ&hl=en), [Xin Li](https://scholar.google.com/citations?user=4BEGYMwAAAAJ&hl=zh-CN), [Fu Li](https://scholar.google.com/citations?user=yw_waMIAAAAJ&hl=zh-CN), and [Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/)(*)
 
 *Corresponding Author
 
