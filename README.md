@@ -43,7 +43,7 @@ We have two stages for training.
 
 Please run the train.py for training and test.py for testing. 
 
-More details will be updated recently. If you have more questions, please contact me as follows.
+More details will be updated recently. If you have more questions, please contact me.
 
 
 
