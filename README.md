@@ -33,6 +33,14 @@ We provide the training and test code along with the trained weights and the dat
 }
 ```
 
+<img src="README/img3.png" alt="Visualization of features" style="zoom:75%;" />
+
+
+
+![img2](README/img2.png)
+
+![img1](README/img1.png)![img4](README/img4.png)
+
 ## Codes
 
 <!-- This repository is the **official implementation** of the paper, "Towards Interactive Self-Supervised Denoising", where more implementation details are presented. -->

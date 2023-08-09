@@ -1,0 +1,9 @@
+
+imagenet/.idea/imagenet.iml
+imagenet/stage1/train - 副本.py
+imagenet/stage1/test - 副本.py
+*.pyc
+stage1/test - 副本.py
+stage1/train - 副本.py
+stage1/test.sh
+stage2/test.sh
